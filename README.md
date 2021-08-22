@@ -19,8 +19,6 @@ My love for programming started at the age of 14, when I was taught how to write
 ![Code: C++](https://img.shields.io/badge/Code-C%2B%2B-965dbb?style=flat&logo=C%2B%2B&logoColor=white)
 ![Code: Rust](https://img.shields.io/badge/Code-Rust-965dbb?style=flat&logo=Rust&logoColor=white)
 
- <br>
-
 ### 📈️ Github Stats
 
 <div style="display: flex; flex-direction: row;">
