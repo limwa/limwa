@@ -6,7 +6,7 @@ My love for programming started at the age of 14, when I was taught how to write
 🔭 I’m currently working on personal projects <br>
 ⚗️ I’m currently experimenting with React Native and Flutter <br>
 
-### Tools and Technologies
+### 🔧 Tools and Technologies
 ![OS: Linux](https://img.shields.io/badge/OS-Linux-965dbb?style=flat&logo=Linux&logoColor=white)
 ![Editor: VS Code](https://img.shields.io/badge/Editor-VS%20Code-965dbb?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Code: Java](https://img.shields.io/badge/Code-Java-965dbb?style=flat&logo=Java&logoColor=white)
