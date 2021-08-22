@@ -2,7 +2,7 @@
 
 My love for programming started at the age of 14, when I was taught how to write Minecraft server plugins in Java. Nowadays, I am more interested in web development.
 
-💻 MSc in Informatics and Computer Engineering [@FEUP](https://fe.up.pt) &nbsp;&nbsp;&nbsp;&nbsp; ✔️ \_\_ \_\_ \_\_ \_\_  <br>
+💻 MSc in Informatics and Computer Engineering [**@FEUP**](https://fe.up.pt) &nbsp;&nbsp;&nbsp;&nbsp; ✔️ \_\_ \_\_ \_\_ \_\_  <br>
 🔭 I’m currently working on personal projects <br>
 ⚗️ I’m currently experimenting with React Native and Flutter <br>
 
