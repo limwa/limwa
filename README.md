@@ -23,8 +23,8 @@ My love for programming started at the age of 14, when I was taught how to write
 
 <div style="display: flex; flex-direction: row;">
   
-  <img alt="André Lima's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=limwa&show_icons=true&line_height=27&theme=material-palenight" />
+  <img alt="André Lima's Github Stats" align="center" src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=material-palenight" />
   
-  <img alt="André Lima's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limwa&langs_count=3&theme=material-palenight" />
+  <img alt="André Lima's Top Languages" align="center" src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=material-palenight" />
   
 </div>
