@@ -7,17 +7,17 @@ I'm an open-source enthusiast and a very curious person, always looking for new 
 🤓 My main areas of interest are Systems Engineering, Programming Language Design and Web Development  <br/>
 
 ### 🔧 Tools and Technologies
-![OS: Linux](https://img.shields.io/badge/OS-Linux-faa627?style=flat&logo=Linux&logoColor=white)
-![Editor: VS Code](https://img.shields.io/badge/Editor-VS%20Code-faa627?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
-![Code: Java](https://img.shields.io/badge/Code-Java-faa627?style=flat&logo=Java&logoColor=white)
-![Code: Kotlin](https://img.shields.io/badge/Code-Kotlin-faa627?style=flat&logo=Kotlin&logoColor=white)
-![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-faa627?style=flat&logo=JavaScript&logoColor=white)
-![JS Framework: React](https://img.shields.io/badge/JS%20Framework-React-faa627?style=flat&logo=React&logoColor=white)
-![Code: SASS](https://img.shields.io/badge/Code-SASS-faa627?style=flat&logo=SASS&logoColor=white)
-![Code: Dart](https://img.shields.io/badge/Code-Dart-faa627?style=flat&logo=Dart&logoColor=white)
-![Code: Python](https://img.shields.io/badge/Code-Python-faa627?style=flat&logo=Python&logoColor=white)
-![Code: C++](https://img.shields.io/badge/Code-C%2B%2B-faa627?style=flat&logo=C%2B%2B&logoColor=white)
-![Code: Rust](https://img.shields.io/badge/Code-Rust-faa627?style=flat&logo=Rust&logoColor=white)
+![OS: Linux](https://img.shields.io/badge/OS-Linux-d4850d?style=flat&logo=Linux&logoColor=white)
+![Editor: VS Code](https://img.shields.io/badge/Editor-VS%20Code-d4850d?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![Code: Java](https://img.shields.io/badge/Code-Java-d4850d?style=flat&logo=Java&logoColor=white)
+![Code: Kotlin](https://img.shields.io/badge/Code-Kotlin-d4850d?style=flat&logo=Kotlin&logoColor=white)
+![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d4850d?style=flat&logo=JavaScript&logoColor=white)
+![JS Framework: React](https://img.shields.io/badge/JS%20Framework-React-d4850d?style=flat&logo=React&logoColor=white)
+![Code: SASS](https://img.shields.io/badge/Code-SASS-d4850d?style=flat&logo=SASS&logoColor=white)
+![Code: Dart](https://img.shields.io/badge/Code-Dart-d4850d?style=flat&logo=Dart&logoColor=white)
+![Code: Python](https://img.shields.io/badge/Code-Python-d4850d?style=flat&logo=Python&logoColor=white)
+![Code: C++](https://img.shields.io/badge/Code-C%2B%2B-d4850d?style=flat&logo=C%2B%2B&logoColor=white)
+![Code: Rust](https://img.shields.io/badge/Code-Rust-d4850d?style=flat&logo=Rust&logoColor=white)
 
 ### 📈️ Github Stats
 
