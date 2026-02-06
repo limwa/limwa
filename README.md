@@ -27,10 +27,10 @@ I'm an open-source enthusiast and a very curious person, always looking for new 
         srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=slateorange&bg_color=ffffff00"
         media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=slateorange&bg_color=ffffff00&text_color=4d4d4d"
+      srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=slateorange&bg_color=ffffff00&text_color=4d4d4d&title_color=d4850d&icon_color=d4850d"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-        src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=slateorange&bg_color=ffffff00&text_color=4d4d4d"
+        src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=slateorange&bg_color=ffffff00&text_color=4d4d4d&title_color=d4850d&icon_color=d4850d"
         align="center"
         alt="André Lima's Github Stats" />
   </picture>
@@ -39,10 +39,10 @@ I'm an open-source enthusiast and a very curious person, always looking for new 
         srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=slateorange&hide=javascript&bg_color=ffffff00"
         media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=slateorange&hide=javascript&bg_color=ffffff00&text_color=4d4d4d"
+      srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=slateorange&hide=javascript&bg_color=ffffff00&text_color=4d4d4d&title_color=d4850d&icon_color=d4850d"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-        src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=slateorange&hide=javascript&bg_color=ffffff00&text_color=4d4d4d"
+        src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=slateorange&hide=javascript&bg_color=ffffff00&text_color=4d4d4d&title_color=d4850d&icon_color=d4850d"
         align="center"
         alt="André Lima's Top Languages" />
   </picture>
