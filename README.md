@@ -1,10 +1,10 @@
 ### Hi there, I'm André Lima 👋
 
-My love for programming started at the age of 14, when I was taught how to write Minecraft server plugins in Java. Nowadays, I am more interested in web development.
+I'm an open-source enthusiast and a very curious person, always looking for new and interesting challenges.
 
-💻 MSc in Informatics and Computer Engineering [**@FEUP**](https://fe.up.pt) &nbsp;&nbsp;&nbsp;&nbsp; ✔️✔️✔️✔️ 〰️ <br>
-🔭 I’m currently working on personal projects <br>
-⚗️ I’m currently experimenting with React Native and Flutter <br>
+💻 MSc in Informatics and Computer Engineering [**@FEUP**](https://fe.up.pt) &nbsp;&nbsp;&nbsp;&nbsp; ✔️✔️✔️✔️ 〰️ <br/>
+🔭 I’m currently working on my Master's Thesis <br/>
+🤓 My main areas of interest are Systems Engineering, Programming Language Design and Web Development  <br/>
 
 ### 🔧 Tools and Technologies
 ![OS: Linux](https://img.shields.io/badge/OS-Linux-965dbb?style=flat&logo=Linux&logoColor=white)
@@ -22,9 +22,9 @@ My love for programming started at the age of 14, when I was taught how to write
 ### 📈️ Github Stats
 
 <div style="display: flex; flex-direction: row;">
-  
+
   <img alt="André Lima's Github Stats" align="center" src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=material-palenight" />
-  
+
   <img alt="André Lima's Top Languages" align="center" src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=material-palenight&hide=javascript" />
-  
+
 </div>
