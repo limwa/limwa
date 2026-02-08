@@ -24,24 +24,24 @@ I'm an open-source enthusiast and a very curious person, always looking for new 
 <div style="display: flex; flex-direction: row;">
   <picture>
     <source
-        srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham"
+        srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham&bg_color=ffffff00"
         media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham"
+      srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham&bg_color=ffffff00"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-        src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham"
+        src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham&bg_color=ffffff00"
         alt="André Lima's Github Stats" />
   </picture>
   <picture>
     <source
-        srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=gotham&hide=javascript"
+        srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=gotham&bg_color=ffffff00"
         media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=gotham&hide=javascript"
+      srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=gotham&bg_color=ffffff00"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-        src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&theme=gotham&hide=javascript"
+        src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=gotham&bg_color=ffffff00"
         alt="André Lima's Top Languages" />
   </picture>
 </div>
