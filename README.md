@@ -27,10 +27,10 @@ I'm an open-source enthusiast and a very curious person, always looking for new 
         srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham&bg_color=ffffff00"
         media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham&bg_color=ffffff00"
+      srcset="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=vue&bg_color=ffffff00"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-        src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=gotham&bg_color=ffffff00"
+        src="https://github-readme-stats.limwa.pt/api?username=limwa&show_icons=true&line_height=27&theme=vue&bg_color=ffffff00"
         alt="André Lima's Github Stats" />
   </picture>
   <picture>
@@ -38,10 +38,10 @@ I'm an open-source enthusiast and a very curious person, always looking for new 
         srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=gotham&bg_color=ffffff00"
         media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=gotham&bg_color=ffffff00"
+      srcset="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=vue&bg_color=ffffff00"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-        src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=gotham&bg_color=ffffff00"
+        src="https://github-readme-stats.limwa.pt/api/top-langs/?username=limwa&langs_count=3&hide=javascript&theme=vue&bg_color=ffffff00"
         alt="André Lima's Top Languages" />
   </picture>
 </div>
