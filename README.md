@@ -7,6 +7,7 @@ I'm an open-source enthusiast and a very curious person, always looking for new 
 🤓 My main areas of interest are Systems Engineering, Programming Language Design and Web Development  <br/>
 
 ### 🔧 Tools and Technologies
+
 ![OS: Linux](https://img.shields.io/badge/OS-Linux-16856a?style=flat&logo=Linux&logoColor=white)
 ![Editor: VS Code](https://img.shields.io/badge/Editor-VS%20Code-16856a?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Code: Java](https://img.shields.io/badge/Code-Java-16856a?style=flat&logo=Java&logoColor=white)
